@@ -1,8 +1,3 @@
-# Primero eliminar el README dañado
-rm README.md
-
-# Crear el README correctamente
-cat > README.md << 'EOF'
 # 🎮 Memory Game en Python con Pygame
 
 ¡Un clásico juego de memoria desarrollado con Python y Pygame! Encuentra todos los pares de cartas en el menor tiempo posible.
